@@ -4,8 +4,8 @@
 
 ### Identidade visual do projeto
 
-![Paleta de cores](/src/img/Paleta.png)
+![Paleta de cores](src/img/Paleta.png)
 
 ### Prototipo figma projeto
 
-![Prototipo de alta fidelidade figma](/src/img/Desktop.png)
+![Prototipo de alta fidelidade figma](src/img/Desktop.png)
